@@ -47,3 +47,4 @@ All Rust, all installable via `cargo install` or `pip install`. Built for both h
 * **[aws-cdk-cli-py](https://github.com/rvben/aws-cdk-cli-py)** — Python wrapper for AWS CDK, no Node.js needed
 * **[shelly-exporter](https://github.com/rvben/shelly-exporter)** — Prometheus exporter for Shelly smart home devices
 * **[vedetta](https://github.com/rvben/vedetta)** — Lightweight open-source NVR with object detection
+
